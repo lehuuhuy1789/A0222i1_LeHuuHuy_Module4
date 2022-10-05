@@ -1,0 +1,10 @@
+* Sự khác nhau của th:text và th:utext
+
+th:text: Sẽ nhận giá trị từ controller và hiển thị như dạng text ( giống với innerText).
+   Hình 1 :
+th:utext: sẽ nhận giá trị từ controller và biên dịch sang html ( giống với innerHTML). 
+   Hình 2 :
+
+
+Link bài: https://chowdera.com/2021/08/20210821015832721f.html
+Từ khóa để search: different th:utext with th:text in thymeleaf
